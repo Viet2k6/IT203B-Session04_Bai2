@@ -1,3 +1,8 @@
+Dòng lệnh sai logic:
+if (currentDrinkSize === "X") {                                                                                                                                      
+        break;                                                                                                                         
+}              
+
 Phân tích lỗi:
 
 - Ban đầu dùng break nên khi gặp chữ X vòng lặp bị thoát luôn, làm không tính tiền được mấy ly đằng sau.
