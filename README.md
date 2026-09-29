@@ -1,4 +1,5 @@
 Dòng lệnh sai logic:
+
 if (currentDrinkSize === "X") {                                                                                                                                      
         break;                                                                                                                         
 }              
